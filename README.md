@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baerlux
-- 👀 I’m interested in 3d graphics, AI, procedural content generation, web development, blockchains, web3, decentralization
+- 👀 I’m interested in 3d graphics, AI, procedural content generation, web and game development, blockchains, web3, decentralization
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on blockchain technology, AI research, game development
 - 📫 How to reach me: baerlux@pm.me
