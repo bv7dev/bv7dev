@@ -1,5 +1,5 @@
 - 👋 Hi! I’m bv7dev
 - 👀 I’m interested in 3d graphics, machine learning, procedural content generation, web and game development
-- 🌱 I’m currently learning vulkan, bgfx, sokol, godot, lsh, Elixir
-- 💞️ I’m looking to collaborate on game engine development
+- 🌱 I’m currently learning webgpu dawn
+- 💞️ I’m looking to collaborate on graphics and simulation engines 
 - 📫 How to reach me: bv7web@gmail.com
